@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/midwest-repair/Reverse-Engineering">
+  <a href="https://github.com/midwest-repair/Reverse-Engineering/Logo.png">
     <img src="images/logo.png" alt="Logo" width="256" height="150">
   </a>
 
