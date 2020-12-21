@@ -1,8 +1,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/midwest-repair/Reverse-Engineering/Logo.png">
-    <img src="images/logo.png" alt="Logo" width="256" height="150">
+  <a href="https://github.com/midwest-repair/Reverse-Engineering">
+    <img src="images/Logo.png" alt="Logo" width="256" height="150">
   </a>
 
   <h3 align="center">Reverse Engineering PCBs</h3>
