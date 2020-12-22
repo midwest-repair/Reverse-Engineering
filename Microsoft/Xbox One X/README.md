@@ -2,7 +2,7 @@
 
 In exprience of repairing X1X motherboards, I've accumulated many M1037358-002 motherboards (indicated by the numbers near the top right corner near the scorpion icon) so this will be the main mb version that will be reverse engineered. I've yet to find any real differences between the versions besides the main power rail having different mosfets.
 
-### Inital Photos
+### Initial Photos
 
 * Removed all power rail coils
 * Removed larger capacitors so the board sits flat on preheater
