@@ -1,6 +1,5 @@
-# Xbox One Xbox
+# Xbox One X
 
-The start of reverse engineering the X1X motherboard
 In exprience of repairing X1X motherboards, I've accumulated many M1037358-002 motherboards (indicated by the numbers near the top right corner near the scorpion icon) so this will be the main mb version that will be reverse engineered. I've yet to find any real differences between the versions besides the main power rail having different mosfets.
 
 ### Inital Photos
@@ -11,7 +10,7 @@ In exprience of repairing X1X motherboards, I've accumulated many M1037358-002 m
 
 ![](images/002-1.jpg)
 
-### Next Steps
+### Preheater
 
 Waiting for my T-8280 preheater to be delievered then will start with the bulk removing process
 
@@ -19,32 +18,19 @@ Waiting for my T-8280 preheater to be delievered then will start with the bulk r
 $ https://ebay.us/L72kBJ
 ```
 
-## Usage
+## Processing
 
-A few examples of useful commands and/or tasks.
+The current process of setting up scanning for eventually getting a gerberfile
 
+* Remove all componets from MB
+* Send MB to a photographer that specializies in high DPI scanning for photos 
 ```
-$ First example
-$ Second example
-$ And keep this in mind
+* I've reached out to many services, waiting till I get a response but should be pretty cheap
 ```
-
-## Deployment
-
-Additional notes on how to deploy this on a live or release system. Explaining the most important branches, what pipelines they trigger and how to update the database (if anything special).
-
-### Server
-
-* Live:
-* Release:
-* Development:
-
-### Branches
-
-* Master:
-* Feature:
-* Bugfix:
-* etc...
+* Once delayering of all levels are scanned in, I've found a very specialized freelancer that will use Photoshop to our advantage to help starting with a basic board viewer 
+```
+more to follow
+```
 
 ## Additional Documentation and Acknowledgments
 
