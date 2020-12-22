@@ -15,7 +15,7 @@ In exprience of repairing X1X motherboards, I've accumulated many M1037358-002 m
 Waiting for my T-8280 preheater to be delievered then will start with the bulk removing process
 
 ```
-$ https://ebay.us/L72kBJ
+https://ebay.us/L72kBJ
 ```
 
 ## Processing
@@ -25,7 +25,7 @@ The current process of setting up scanning for eventually getting a gerberfile
 * Remove all componets from MB
 * Send MB to a photographer that specializies in high DPI scanning for photos 
 ```
-* I've reached out to many services, waiting till I get a response but should be pretty cheap
+I've reached out to many services, waiting till I get a response but should be pretty cheap
 ```
 * Once delayering of all levels are scanned in, I've found a very specialized freelancer that will use Photoshop to our advantage to help starting with a basic board viewer 
 ```
