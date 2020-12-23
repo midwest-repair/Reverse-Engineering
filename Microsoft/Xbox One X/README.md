@@ -23,7 +23,7 @@ https://ebay.us/L72kBJ
 The current process of setting up scanning for eventually getting a gerberfile
 
 * Due to my inexperience currently, I accumulated 5 donor boards all being the same revision (002)
-* Remove all componets from MB
+* Remove all componets from MB with preheater set to 200C and hot air station
 * Using MagnaStrip 500 to remove silkscreening
 * Send MB to a photographer that specializies in high DPI scanning for photos 
 * Start delayering process. Research is showing the basic sanding method of being the most effective and cheapest. Given there's likely 12 layers in this board, it'll be a hell of a process in getting each layer done, then sending to a scanning company for images.
