@@ -8,11 +8,11 @@ In exprience of repairing X1X motherboards, I've accumulated many M1037358-002 m
 * Removed larger capacitors so the board sits flat on preheater
 * Remove power supply connector as it's very tall and won't sit correctly on preheater
 
-![](images/002-1.jpg)
+![](images/002-Front.jpg)
 
 ### Preheater
 
-Waiting for my T-8280 preheater to be delievered then will start with the bulk removing process
+Due to the thickness of this PCB (right at 1.5mm) the removal of componets won't be possible without one. The eBay link is of the one I currently use with great success.
 
 ```
 https://ebay.us/L72kBJ
@@ -23,18 +23,13 @@ https://ebay.us/L72kBJ
 The current process of setting up scanning for eventually getting a gerberfile
 
 * Remove all componets from MB
+* Using MagnaStrip 500 to remove silkscreening
 * Send MB to a photographer that specializies in high DPI scanning for photos 
+* Start delayering process. Research is showing the basic sanding method of being the most effective and cheapest. Given there's likely 12 layers in this board, it'll be a hell of a process in getting each layer done, then sending to a scanning company for images.
 ```
-I've reached out to many services, waiting till I get a response but should be pretty cheap
+Quite a few of these photo companies specializing in scanning are able to do PCB scanning without issue at about $1.50 an image at 9600DPI
 ```
 * Once delayering of all levels are scanned in, I've found a very specialized freelancer that will use Photoshop to our advantage to help starting with a basic board viewer 
 ```
 more to follow
 ```
-
-## Additional Documentation and Acknowledgments
-
-* Project folder on server:
-* Confluence link:
-* Asana board:
-* etc...
