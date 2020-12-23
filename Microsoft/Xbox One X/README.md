@@ -8,7 +8,7 @@ In exprience of repairing X1X motherboards, I've accumulated many M1037358-002 m
 * Removed larger capacitors so the board sits flat on preheater
 * Remove power supply connector as it's very tall and won't sit correctly on preheater
 
-![](images/002-Front.jpg)
+![](images/002-Front.jpeg)
 
 ### Preheater
 
