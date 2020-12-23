@@ -22,6 +22,7 @@ https://ebay.us/L72kBJ
 
 The current process of setting up scanning for eventually getting a gerberfile
 
+* Due to my inexperience currently, I accumulated 5 donor boards all being the same revision (002)
 * Remove all componets from MB
 * Using MagnaStrip 500 to remove silkscreening
 * Send MB to a photographer that specializies in high DPI scanning for photos 
