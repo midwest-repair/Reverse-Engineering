@@ -31,8 +31,13 @@ There's a few products that are crucial to the reverse engineering of PCB.
 The list of products below are the ones that I've been using in all aspects of the reverse engineering. 
 
 T-8280 - https://www.ebay.com/itm/T-8280-IR-PCB-Infrared-Preheater-BGA-Rework-Preheating-Station-1600W-280x270mm/232753773337
+
 x2 Granite Slabs 12x8x2 - https://www.amazon.com/gp/product/B08BXMX46W
+
 Sandpaper - https://www.amazon.com/gp/product/B07DTFSNKX
+
 Atten ST-862D - https://www.aliexpress.com/item/4000406235877
+
 Ksger T12 Soldering Station - https://www.aliexpress.com/item/32933941125
+
 Framing Square (to know smd locations) - https://www.amazon.com/gp/product/B01MFXV7KQ
