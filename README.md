@@ -20,8 +20,6 @@
   </p>
 </p>
 
-### Replacement Parts
-
 ## About The Project
 
 There's a lack of schmatics on consoles compared to the Apple industry likely due to the lower amount of revenue possible, but this project will help fill the gap. 
