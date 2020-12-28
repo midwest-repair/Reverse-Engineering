@@ -14,7 +14,7 @@
     ·
     <a href="https://github.com/midwest-repair/Reverse-Engineering/issues">Incorrect Info?</a>
     ·
-    <a href="https://github.com/midwest-repair/Reverse-Engineering/pulls">Have more information? Submit a PR!</a>
+    <a href="https://github.com/midwest-repair/Reverse-Engineering/pulls">Have more information to share?</a>
     <br />
     <a href="https://github.com/midwest-repair/Reverse-Engineering/blob/main/Replacement_Console_Parts.md">Console Replacement Parts</a>
   </p>
